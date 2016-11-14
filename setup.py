@@ -10,7 +10,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='blah-blah-blah',
-    version='1.0.2',
+    version='1.0.3',
     url='https://github.com/nikogura/build-tools',
     author='Nik Ogura',
     author_email='nik.ogura@gmail.com',
